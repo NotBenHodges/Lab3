@@ -1,1 +1,1 @@
-window.alert("Hello there!")
+document.getElementById('demo').innerHTML = 5 + 6;
